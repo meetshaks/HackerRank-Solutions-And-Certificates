@@ -1,0 +1,14 @@
+C# (Basic) Certificate.png
+CSS Certificate.png
+Java (Basic) Certificate.png
+Javascript (Basic)  Certificate.png
+Javascript (Intermediate )  Certificate.png
+Problem Solving (Basic) Certificate.png
+Problem Solving (Intermediate ) Certificate.png
+Python (Basic) Certificate.png
+R (Basic) Certificate.png
+Rest Api (Intermediate) Certificate.png
+Software Engineer Intern Certificate.png
+SQL (Advanced) Certificate.png
+SQL (Basic) Certificate.png
+SQL (Intermediate ) Certificate.png
